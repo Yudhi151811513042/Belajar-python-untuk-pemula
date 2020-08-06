@@ -1,0 +1,2 @@
+print("sekolahkoding")
+print('sekolahkoding')
